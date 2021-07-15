@@ -1,0 +1,8 @@
+*.o
+distanceBetweenTest
+initPointTest
+pointsApproxEqualTest
+boxesApproxEqualTest
+initBoxTest
+areaOfBoxTest
+pointToStringTest
